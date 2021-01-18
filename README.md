@@ -1,9 +1,3 @@
----
-title: "README"
-author: "Rola"
-date: "1/15/2021"
-output: html_document
----
 
 # Getting and Cleaning Data - Course Project
 

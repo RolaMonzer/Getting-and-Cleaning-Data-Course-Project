@@ -1,11 +1,3 @@
----
-title: "CodeBook"
-author: "Rola"
-date: "1/15/2021"
-output:
-  html_document:
-    df_print: paged
----
 
 # Getting and Cleaning Data - Course Project
 
